@@ -1,0 +1,26 @@
+
+        .wrapper-container {
+            width: 80%;
+            height: 500px;
+            margin: auto;
+            border: 50px solid aqua;
+            padding: 5px;
+        }
+        h1 {
+            color: white;
+            background-color: orangered;
+            text-align: center;
+        }
+        table {
+            width: 50px;
+            margin: auto;
+        }
+        .title {
+            text-align: end;
+            padding-right: 20px;
+            color: blue;
+        }
+        .content {
+            color: orangered;
+        }
+  
